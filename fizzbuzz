@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require './fizzbuzz'
+
+Fizzbuzz.new.print_up_to_100
